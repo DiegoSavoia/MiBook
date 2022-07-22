@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">-Nombre Alummno-</string>
+    <string name="nav_header_subtitle">-Email Alumno-</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_profile">Perfíl</string>
+    <string name="menu_board">Tablón</string>
+    <string name="menu_calendar">Calendario</string>
+</resources>
